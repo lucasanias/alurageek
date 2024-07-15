@@ -1,0 +1,82 @@
+{
+    "produtos": [
+      {
+        "nome": "Capitão América",
+        "valor": "60",
+        "imagem": "https://m.media-amazon.com/images/I/81pHqxTU7GS._AC_SX679_.jpg",
+        "id": 1
+      },
+      {
+        "nome": "Mulher Maravilha",
+        "valor": "70",
+        "imagem": "https://m.media-amazon.com/images/I/61zrJk2sjJL._AC_SX679_.jpg",
+        "id": 2
+      },
+      {
+        "nome": "Homem de Ferro",
+        "valor": "45",
+        "imagem": "https://m.media-amazon.com/images/I/51P3XT-jLdL._AC_SX679_.jpg",
+        "id": 3
+      },
+      {
+        "nome": "WandaVision",
+        "valor": "55",
+        "imagem": "https://m.media-amazon.com/images/I/619aaJtt+oL._AC_SX679_.jpg",
+        "id": 4
+      },
+      {
+        "nome": "Homem Aranha",
+        "valor": "35",
+        "imagem": "https://m.media-amazon.com/images/I/615aXjXu0nL._AC_SX679_.jpg",
+        "id": 5
+      },
+      {
+        "nome": "Flash",
+        "valor": "25",
+        "imagem": "https://m.media-amazon.com/images/I/61BbaXwuBPL._AC_SX679_.jpg",
+        "id": 6
+      },
+      {
+        "nome": "Aquaman",
+        "valor": "30",
+        "imagem": "https://m.media-amazon.com/images/I/61W05rwoCML._AC_SX679_.jpg",
+        "id": 7
+      },
+      {
+        "nome": "Batman",
+        "valor": 22,
+        "imagem": "https://m.media-amazon.com/images/I/61SXlXHfFeL._AC_SX679_.jpg",
+        "id": 8
+      },
+      {
+        "nome": "Grogu",
+        "valor": 85,
+        "imagem": "https://m.media-amazon.com/images/I/51Rw61xPsyL._AC_SX679_.jpg",
+        "id": 9
+      },
+      {
+        "nome": "Chewbacca",
+        "valor": 80,
+        "imagem": "https://m.media-amazon.com/images/I/61PWSATQ+7L._AC_SX679_.jpg",
+        "id": 10
+      },
+      {
+        "nome": "Darth Vader",
+        "valor": 60,
+        "imagem": "https://m.media-amazon.com/images/I/6112s+B9HpL._AC_SX679_.jpg",
+        "id": 11
+      },
+      {
+        "nome": "Stormtrooper",
+        "valor": 65,
+        "imagem": "https://m.media-amazon.com/images/I/51j-k-GyGTL._AC_SX679_.jpg",
+        "id": 12
+      },
+      {
+        "nome": "Doutor Estranho",
+        "valor": "45",
+        "imagem": "https://m.media-amazon.com/images/I/71CVBoe-N3L._AC_SX679_.jpg",
+        "id": 13
+      }
+    ]
+  }
